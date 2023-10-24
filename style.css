@@ -18,7 +18,7 @@
     background-color: rgba(199, 247, 255, 0.788);
 }
 .parallax{
-    background-image: url('/Assets/lander.avif');
+    background-image: url('/Assets/igor-omilaev-ToxUgLe7tpE-unsplash.jpg');
     min-height: 450px;
     background-attachment: fixed;
     background-position: center;
@@ -28,3 +28,4 @@
     flex-direction: column;
     justify-content: center;
 }
+
