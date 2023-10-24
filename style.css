@@ -18,7 +18,7 @@
     background-color: rgba(199, 247, 255, 0.788);
 }
 .parallax{
-    background-image: url('/../bs-class/Assets/igor-omilaev-ToxUgLe7tpE-unsplash.jpg');
+    background-color: aqua;
     min-height: 450px;
     background-attachment: fixed;
     background-position: center;
